@@ -1,4 +1,4 @@
-Voronoi Diagram ([DEMO](https://krisonepiece.000webhostapp.com/Voronoi/))
+Voronoi Diagram ([DEMO](https://krisonepiece.github.io/VoronoiDiagram/))
 ===
 ![](https://i.imgur.com/Zif8FT9.png)
 
@@ -11,7 +11,7 @@ Voronoi Diagram ([DEMO](https://krisonepiece.000webhostapp.com/Voronoi/))
 1. 滑鼠在畫布上任意點擊，畫布大小為 603*603
 2. 輸入x軸及y軸座標
 3. 隨機產生數個點
-4. 讀入「輸入文字檔」，[《詳細格式》](https://drive.google.com/open?id=1ijeRMVzabdqh7_Z0HxL4DEMnZ_KB8BXM)
+4. 讀入「輸入文字檔」，[《詳細格式》](https://krisonepiece.github.io/VoronoiDiagram/file/vd_testdata.in)
 5. 讀入「輸出文字檔」，直接在畫布繪出圖形
 ### 輸出
 1. 按下Save，輸出「輸出文字檔」
@@ -54,7 +54,7 @@ Voronoi Diagram ([DEMO](https://krisonepiece.000webhostapp.com/Voronoi/))
 
 # 軟體說明
 ## 安裝說明
-1. 下載[主程式](https://drive.google.com/open?id=1QTxoaVpjRJgu8uRFe7wKyHA5L54COcl8)後，執行「VoronoiDiagram.exe」即可。  
+1. 下載[主程式](https://krisonepiece.github.io/VoronoiDiagram/file/M053040018_VoronoiDiagram.exe)後，執行「VoronoiDiagram.exe」即可。  
 <img src="https://i.imgur.com/oMOMex6.jpg" height="80" width="70">  
 
 ## 使用說明
